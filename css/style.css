@@ -643,6 +643,12 @@ p{
   color: #306685;
 }
 
+.home-page .home-box h2{
+	font-size:18px;
+  font-weight:bold;
+  color: #696a6b;
+}
+
 .home-page .home-box p{
 	margin-top:10px;
 }
@@ -803,6 +809,8 @@ font-size: 14px;
 
 .resume-list li h3 {
     font-size: 15px;
+  font-weight:700;
+  color:#8c8c8c;
 }
 
 .resume-list li{
